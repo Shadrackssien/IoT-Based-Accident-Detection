@@ -54,5 +54,5 @@ https://github.com/Shadrackssien/IoT-Based-Accident-Detection/assets/117119351/0
 
 ![code-screenshot](https://github.com/Shadrackssien/IoT-Based-Accident-Detection/assets/117119351/b4f159d5-8ba4-4b10-b0e5-f7c82533194b)
 
-## Download The pdf file [here]{https://drive.google.com/file/d/1I3UXLrcjZlZDK8OALrGgq3kUarrcsQNX/view?usp=sharing}
+## Download The pdf file [here](https://drive.google.com/file/d/1I3UXLrcjZlZDK8OALrGgq3kUarrcsQNX/view?usp=sharing)
 
